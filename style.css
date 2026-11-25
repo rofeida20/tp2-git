@@ -1,2 +1,23 @@
-body { background-color: #f0f0f0; }
-h1 { color: blue; }
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #fff0f6, #ffe3ec);
+  color: #4a3040;
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+}
+
+h1 {
+  color: #d63384;
+  font-size: 48px;
+  border-bottom: 3px solid #f4a6c1;
+  padding-bottom: 12px;
+}
+
+p {
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px #d6338420;
+  font-size: 20px;
+}
